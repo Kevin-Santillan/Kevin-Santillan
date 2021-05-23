@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Proyecto"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\DevLibraries\;CMake Files\..\..\DevLibraries\SFML-2.5.1\;CMake Files\..\..\DevLibraries\SFML-2.5.1\lib\;CMake Files\..\..\DevLibraries\SFML-2.5.1\lib\cmake\;CMake Files\..\..\DevLibraries\SFML-2.5.1\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/kevin/ClionProjects/Proyecto/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/kevin/ClionProjects/Proyecto/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/kevin/ClionProjects/Proyecto/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Proyecto">
+				<Option output="/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Proyecto" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/ClionProjects/Proyecto/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/kevin/DevLibraries/SFML-2.5.1/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Proyecto/fast">
+				<Option output="/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Proyecto" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/ClionProjects/Proyecto/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/kevin/DevLibraries/SFML-2.5.1/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/kevin/ClionProjects/Proyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/Figura.cpp">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/Figura.h">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/Juego.cpp">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/Juego.h">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/Jugador.cpp">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/Jugador.h">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/Pantalla.cpp">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/Pantalla.h">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/PantallaFinal.cpp">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/PantallaFinal.h">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/PantallaInicial.cpp">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/PantallaInicial.h">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/PantallaJuego.cpp">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/PantallaJuego.h">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/Pelota.cpp">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/Pelota.h">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/main.cpp">
+			<Option target="Proyecto"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/../../DevLibraries/SFML-2.5.1/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\DevLibraries\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/../../DevLibraries/SFML-2.5.1/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\DevLibraries\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/../../DevLibraries/SFML-2.5.1/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\DevLibraries\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/../../DevLibraries/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\DevLibraries\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/kevin/ClionProjects/Proyecto/../../DevLibraries/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\DevLibraries\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
