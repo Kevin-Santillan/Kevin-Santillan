@@ -21,8 +21,6 @@ public:
     void dibujar();
     void eventos();
     void actualizar_mensaje();
-
-
 };
 
 
