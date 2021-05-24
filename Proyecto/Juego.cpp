@@ -6,17 +6,13 @@
 
 using namespace std;
 void Juego::ejecutar() {
-
 }
 
 void Juego::reiniciar() {
-
 }
 
 void Juego::inicializar() {
-
 }
 
 void Juego::adicionar_pantalla() {
-
 }
